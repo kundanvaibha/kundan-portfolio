@@ -3,7 +3,7 @@ https://kundanvaibha.github.io/kundan-portfolio/
 
 (https://i.postimg.cc/6QBNRz7Q/portfolio-1.jpg)
 
-## ✨About the Project
+## About the Project
 
 My project i.e a responsive website to show my designing and front-end skills in web development.
 
@@ -34,31 +34,4 @@ My project i.e a responsive website to show my designing and front-end skills in
 1) Download Zip file or
 2) In your Command Line - Run git clone https://github.com/kundanvaibha/kundan-portfolio 
 
-## Maintainer ✨
-<table>
-  <tr>
-    <td align="center"><a href="https://kundanvaibha.github.io/kundan-portfolio/"><img src="https://avatars.githubusercontent.com/u/63739986?s=460&u=7f3c89bd6859a6406a9890a4936910b710ee721e&v=4" width="100px;" alt=""/><br /><sub><b>Devesh Prasad</b></sub></a><br /><a href="https://kundanvaibha.github.io/kundan-portfolio/" title="Code">💻</a><a href="https://kundanvaibha.github.io/kundan-portfolio/" title="Documentation">📖</a> <a href="https://kundanvaibha.github.io/kundan-portfolio/" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
-
-
-1)
-![1](https://user-images.githubusercontent.com/63739986/110806821-712fb280-82a8-11eb-9890-e930440f1bb3.png)
-
-
-2)
-![2](https://user-images.githubusercontent.com/63739986/110806827-72f97600-82a8-11eb-8edf-18cd3ffa4332.png)
-
-
-3)
-![3](https://user-images.githubusercontent.com/63739986/110806836-742aa300-82a8-11eb-9c62-b446c60a00cc.png)
-
-
-4)
-![4](https://user-images.githubusercontent.com/63739986/110806843-74c33980-82a8-11eb-9ec3-d9da146f0f9c.png)
-
-
-5)
-![5](https://user-images.githubusercontent.com/63739986/110806846-755bd000-82a8-11eb-9ee4-50ac46640f01.png)
 
