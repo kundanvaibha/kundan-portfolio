@@ -1,7 +1,7 @@
 # Portfolio Website  
 https://kundanvaibha.github.io/kundan-portfolio/
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif)
+![ezgif com-gif-maker (2)](https://i.postimg.cc/6QBNRz7Q/portfolio-1.jpg)
 
 ## ✨About the Project
 
