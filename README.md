@@ -32,7 +32,7 @@ My project i.e a responsive website to show my designing and front-end skills in
 ## ⚙Installation
 
 1) Download Zip file or
-2) In your Command Line - Run git clone https://github.com/deveshprasad/portfolio.git 
+2) In your Command Line - Run git clone https://github.com/kundanvaibha/kundan-portfolio 
 
 ## Maintainer ✨
 <table>
