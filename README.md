@@ -1,8 +1,6 @@
 # Portfolio Website  
 https://kundanvaibha.github.io/kundan-portfolio/
 
-(https://i.postimg.cc/6QBNRz7Q/portfolio-1.jpg)
-
 ## About the Project
 
 My project i.e a responsive website to show my designing and front-end skills in web development.
